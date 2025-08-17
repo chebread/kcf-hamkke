@@ -22,4 +22,4 @@
 - node ver: v18.8.0
 
 ## 라이선스
-MIT LICENSE 2022-2025 Cha Haneum
+MIT LICENSE &copy; 2022-2025 Cha Haneum
